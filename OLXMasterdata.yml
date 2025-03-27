@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: OLX-MasterData
 
   datasource:
       url: jdbc:mysql://localhost:3306/olx_masterdata
